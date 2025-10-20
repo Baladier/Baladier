@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan Beltrán  
+# Hi, I'm Alan Beltrán  
 
 💡 *Mechatronics Engineer from Universidad de las Américas Puebla (UDLAP)*  
 🚀 Passionate about **robotics**, **automation**, and **nuclear engineering**  
