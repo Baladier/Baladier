@@ -1,6 +1,6 @@
 # Hi, I'm Alan Beltrán
 
-**Mechatronics Engineer** — Universidad de las Américas Puebla (UDLAP)
+**Mechatronics Engineer** — Universidad de las Américas Puebla (UDLAP)<br>
 Working at the intersection of **robotics**, **automation** and **nuclear engineering**.
 
 ---
@@ -16,26 +16,30 @@ Working at the intersection of **robotics**, **automation** and **nuclear engine
 
 ### Tech Stack
 
-**Languages** · Python, C/C++, MATLAB
-**Robotics & Vision** · ROS Noetic, OpenCV, YOLO, Robotics Toolbox (Python/MATLAB)
-**Hardware** · UR5, Arduino, STM32, ESP32, Raspberry Pi
-**Tools** · Linux (Ubuntu 20.04+), Git, LaTeX, SolidWorks
-**Currently learning** · Geant4 (Monte Carlo particle transport)
+- **Languages** · Python, C/C++, MATLAB
+- **Robotics & Vision** · ROS Noetic, OpenCV, YOLO, Robotics Toolbox (Python/MATLAB)
+- **Hardware** · UR5, Arduino, STM32, ESP32, Raspberry Pi
+- **Tools** · Linux (Ubuntu 20.04+), Git, LaTeX, SolidWorks
+- **Currently learning** · Geant4 (Monte Carlo particle transport)
 
 ---
 
 ### Featured Projects
 
-**[Planar Drawing Robot (3-DOF)](https://github.com/Baladier/robot-planar-dibujante)**
-Simulation of a planar manipulator that generates and follows drawing trajectories extracted from image contours.
+**[Planar Drawing Robot (3-DOF)](https://github.com/Baladier/robot-planar-dibujante)**<br>
+Simulation of a planar manipulator that generates and follows drawing trajectories extracted from image contours.<br>
 *Python · Robotics Toolbox · OpenCV*
 
-**[ROS Clothing Detection](https://github.com/Baladier/Deteccion-de-ropa)**
-Real-time clothing detection for robot perception. ROS Noetic package running YOLOv3-ModaNet over a live camera stream and publishing labelled bounding boxes. Developed during a research internship at INAOE.
+**[ROS Clothing Detection](https://github.com/Baladier/Clothing-Detection-Internship)**<br>
+Real-time clothing detection for robot perception. ROS Noetic package running YOLOv3-ModaNet over a live camera stream and publishing labelled bounding boxes. Developed during a research internship at INAOE.<br>
 *Python · ROS Noetic · OpenCV · Deep learning*
 
-**High-Density Concrete Shielding Blocks (TM NIPOL)**
-Technical catalogue and experimental validation of barite-based radiation shielding materials, including TVL/HVL characterisation and shielding wall design to CNSNS standards.
+**[Markovito Vision Internship](https://github.com/Baladier/Markovito-vision-internship)**<br>
+Computer vision pipeline (SAM + YOLOv8 + ROS) for the Markovito service robot, developed during a research internship at INAOE.<br>
+*Python · ROS · YOLOv8 · SAM*
+
+**High-Density Concrete Shielding Blocks (TM NIPOL)**<br>
+Technical catalogue and experimental validation of barite-based radiation shielding materials, including TVL/HVL characterisation and shielding wall design to CNSNS standards.<br>
 *Industrial application · Experimental research*
 
 ---
@@ -48,10 +52,10 @@ A Ph.D. bridging **robotics and nuclear engineering** — advancing safe automat
 
 ### Contact
 
-✉️ **alan.beltrandn@udlap.mx** *(academic)* · alanbeltran1202@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/alan-beltr%C3%A1n-181734302/) · 💻 [GitHub](https://github.com/Baladier)
+- ✉️ **alan.beltrandn@udlap.mx** *(academic)* · alanbeltran1202@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alan-beltr%C3%A1n-181734302/) · 💻 [GitHub](https://github.com/Baladier)
 
 ---
 
-> *"Aprendiste, aplicaste y superaste un reto."*
+> *"Aprendiste, aplicaste y superaste un reto."*<br>
 > — You learned, you applied it, and you overcame a challenge.
